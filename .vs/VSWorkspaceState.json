@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\4.gun",
+    "\\4.gun\\MicroserviceInveonOrnek",
+    "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web",
+    "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web\\Areas",
+    "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web\\Areas\\Admin",
+    "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web\\Areas\\Admin\\Views",
+    "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web\\Areas\\Admin\\Views\\Product"
+  ],
+  "SelectedNode": "\\4.gun\\MicroserviceInveonOrnek\\Inveon.Web\\Areas\\Admin\\Views\\Product\\ProductDelete.cshtml",
+  "PreviewInSolutionExplorer": false
+}
